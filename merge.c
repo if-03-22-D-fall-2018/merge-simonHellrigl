@@ -47,7 +47,7 @@ void merge(int* first_array, int n_first, int* second_array, int n_second, int* 
 {
     int i = 0;
     int j = 0;
-    int k = 0;
+    int k = 0;  
 
 
     while (i<n_first && j <n_second)
